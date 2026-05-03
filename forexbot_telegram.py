@@ -1,11 +1,5 @@
 """
-⚡ ForexBot AI — Telegram Bot
-Exact replica of your HTML bot, now with Telegram notifications.
 
-SETUP:
-1. pip install python-telegram-bot requests anthropic
-2. Fill in your tokens below (BOT_TOKEN, ANTHROPIC_API_KEY, TWELVE_DATA_KEY)
-3. python forexbot_telegram.py
 
 COMMANDS:
 /start     — Welcome message
