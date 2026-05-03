@@ -36,7 +36,7 @@ from telegram.ext import (
 # ✏️  FILL IN YOUR TOKENS HERE
 # ─────────────────────────────────────────────
 BOT_TOKEN        = 8563871838:AAEPk7ard1DvKdFVoCmUvcM9wRglEj3TZl8       # From @BotFather
-ANTHROPIC_API_KEY = "YOUR_ANTHROPIC_API_KEY"        # From console.anthropic.com
+ANTHROPIC_API_KEY = ""        # From console.anthropic.com
 TWELVE_DATA_KEY  = ""                               # Optional: twelvedata.com free key (800 calls/day)
 # ─────────────────────────────────────────────
 
